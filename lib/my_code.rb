@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def map_to_negativize(source_array)
   counter = 0
   negativize_array = []
@@ -65,3 +66,6 @@ def reduce_to_any_true(source_array)
   end 
   return false
 end
+=======
+def 
+>>>>>>> 2ac084771ee754cd460ce5b1d139de3496a1be45
